@@ -24,7 +24,7 @@ body {
 
 /* Navbar */
 nav {
-    background-color: rgba(255,255,255,0.04);
+    background-color: #0b1220;
     backdrop-filter: blur(6px);
     box-shadow: 0 4px 25px rgba(0,0,0,0.4);
     display: flex;
